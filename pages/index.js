@@ -56,7 +56,7 @@ export default function Home() {
         </div>
       </main>
 
-      <button onClick={getUser}>Get API info!</button>
+      <button onClick={getUser}>Get API info 2.0!</button>
 
       <footer className={styles.footer}>
         <a
